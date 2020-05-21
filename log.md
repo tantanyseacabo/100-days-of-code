@@ -15,3 +15,21 @@
 **Thoughts:** I was sick so it took me a week to start this challenge after setting everything up. I had previously started with the Survey Form but today I finished the HTML and created the CSS. I consider myself creative but still have a hard time visualizing and creating a nice UI from scratch, I'm guessing it's just a matter of research until my brain soaks up this knowledge
 
 **Link to work:** [Survey Form CodePen](https://codepen.io/tantanyseacabo/full/MWwaeZv)
+
+### Day 2: May 20, 2020
+
+**Today's Progress:** Finished FCC Landing page's HTML skeleton and got a good advance with the styling
+
+**Thoughts:** I hadn't used much CSS for a few months so I had troubles starting, but as soon as I warmed up everything went smooth. I could've finished this if I had more time
+
+**Link to work:** [Product Landing Page](https://github.com/tantanyseacabo/FCC-ProductLandingPage)
+
+### Day 3: May 21, 2020
+
+**Today's Progress:** Finished Landing Page homework
+
+**Thoughts:** Today I decided I would do everything I can to save this school semester, so spent all night catching up with the Web Design homework. I really like the end product of this!
+
+I might take a few days off this challenge in order to finish the non-coding activities, but I'll do my best to stick to it
+
+**Link to work:** [Web Design Principles - Final Work](https://github.com/tantanyseacabo/PDW-Integradora)
